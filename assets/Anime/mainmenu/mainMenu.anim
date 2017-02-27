@@ -1,0 +1,188 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "mainMenu",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.3333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Layout/Layout/createGame": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -864,
+                389
+              ]
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": [
+                -706,
+                447
+              ]
+            },
+            {
+              "frame": 0.21666666666666667,
+              "value": [
+                -555,
+                502
+              ]
+            },
+            {
+              "frame": 0.2833333333333333,
+              "value": [
+                -432,
+                537
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -389,
+                549
+              ]
+            }
+          ]
+        }
+      },
+      "Layout/Layout/newGame": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.23333333333333334,
+              "value": [
+                -276,
+                62
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -248,
+                111
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.23333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Layout/Layout/loadGame": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.23333333333333334,
+              "value": [
+                157,
+                14
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                106,
+                81
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.23333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Layout/Layout/exitGame": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 551
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 360
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Layout/Layout/about": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 504
+            },
+            {
+              "frame": 0.25,
+              "value": 353
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Layout/Layout/endList": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.25,
+              "value": 528
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 343
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.25,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

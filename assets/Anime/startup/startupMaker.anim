@@ -1,0 +1,50 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "startupMaker",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 6.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {},
+    "props": {
+      "position": [
+        {
+          "frame": 2.5,
+          "value": [
+            17,
+            -285
+          ]
+        },
+        {
+          "frame": 3.0166666666666666,
+          "value": [
+            0,
+            -187
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 2.5,
+          "value": 0
+        },
+        {
+          "frame": 3.0166666666666666,
+          "value": 255
+        },
+        {
+          "frame": 5.5,
+          "value": 255
+        },
+        {
+          "frame": 6.5,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}
